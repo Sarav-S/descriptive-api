@@ -24,5 +24,12 @@
     "require":{
         "php":"^8.0.2",
         "laravel/framework":"^9.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sarav\\DescriptiveApi\\ResponseServiceProvider"
+            ],
+        }
     }
 }
