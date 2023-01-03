@@ -15,5 +15,9 @@
     "type": "Library",
     "keywords" : ["laravel", "descriptive api methods", "api", "descriptive api"],
     "license": "MIT",
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0.2",
+        "laravel/framework": "^9.0",
+    },
 }
