@@ -29,7 +29,7 @@
         "laravel": {
             "providers": [
                 "Sarav\\DescriptiveApi\\ResponseServiceProvider"
-            ],
+            ]
         }
     }
 }
