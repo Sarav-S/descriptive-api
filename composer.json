@@ -1,23 +1,28 @@
 {
-    "name": "sarav/descriptive-api",
-    "description": "A Simple Laravel Package providing descriptive API methods",
-    "autoload": {
-        "psr-4": {
-            "Sarav\\DescriptiveApi\\": "src/"
+    "name":"sarav/descriptive-api",
+    "description":"A Simple Laravel Package providing descriptive API methods",
+    "autoload":{
+        "psr-4":{
+            "Sarav\\DescriptiveApi\\":"src/"
         }
     },
-    "authors": [
+    "authors":[
         {
-            "name": "Sarav",
-            "email": "me@sarav.co"
+            "name":"Sarav",
+            "email":"me@sarav.co"
         }
     ],
-    "type": "Library",
-    "keywords" : ["laravel", "descriptive api methods", "api", "descriptive api"],
-    "license": "MIT",
-    "minimum-stability": "dev",
-    "require": {
-        "php": "^8.0.2",
-        "laravel/framework": "^9.0",
-    },
+    "type":"Library",
+    "keywords":[
+        "laravel",
+        "descriptive api methods",
+        "api",
+        "descriptive api"
+    ],
+    "license":"MIT",
+    "minimum-stability":"dev",
+    "require":{
+        "php":"^8.0.2",
+        "laravel/framework":"^9.0"
+    }
 }
