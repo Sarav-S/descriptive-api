@@ -1,0 +1,15 @@
+{
+    "name": "sarav/descriptive-api",
+    "autoload": {
+        "psr-4": {
+            "Sarav\\DescriptiveApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sarav",
+            "email": "me@sarav.co"
+        }
+    ],
+    "require": {}
+}
