@@ -1,5 +1,6 @@
 {
     "name": "sarav/descriptive-api",
+    "description": "A Simple Laravel Package providing descriptive API methods",
     "autoload": {
         "psr-4": {
             "Sarav\\DescriptiveApi\\": "src/"
@@ -11,5 +12,8 @@
             "email": "me@sarav.co"
         }
     ],
+    "type": "Library",
+    "keywords" : ["laravel", "descriptive api methods", "api", "descriptive api"],
+    "license": "MIT",
     "require": {}
 }
